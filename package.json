@@ -1,1 +1,12 @@
-
+{
+  "name": "contador-pdf",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/kv": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "typescript": "^5.4.0"
+  }
+}
